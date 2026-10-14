@@ -1,0 +1,8 @@
+[package]
+name = "bcalc"
+version = "0.4.1"
+edition = "2021"
+description = "Arbitrary-precision calculator compatible with POSIX bc, used by the reporting jobs"
+publish = false
+
+[dependencies]
